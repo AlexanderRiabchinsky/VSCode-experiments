@@ -1,0 +1,15 @@
+body{
+    background-color: powderblue;
+}
+.general{
+    list-style: square;
+    color: darkblue;
+    font-weight: 900;
+    background-color: aqua;
+}
+.mixed{
+    list-style: square;
+    color: blueviolet;
+    font-size: 14px;
+    background-color: aquamarine;
+}
