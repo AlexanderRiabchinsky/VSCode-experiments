@@ -1,0 +1,79 @@
+[33mcommit 7bde410ac97866ff6ec5a022ca537223abddbf58[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mnew-contacts[m[33m)[m
+Author: AlexanderRiabchinsky <96685130+AlexanderRiabchinsky@users.noreply.github.com>
+Date:   Sat Oct 29 21:25:45 2022 +0300
+
+    yes
+
+[33mcommit 013131ed27a6eb006e963ada81edcb9177c7e8d6[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: AlexanderRiabchinsky <96685130+AlexanderRiabchinsky@users.noreply.github.com>
+Date:   Sat Oct 29 12:58:14 2022 +0300
+
+    stash experiment
+
+[33mcommit 4ab7080508b7560abdec6891c837c1848e79858a[m
+Merge: 303b746 a52b3bf
+Author: AlexanderRiabchinsky <96685130+AlexanderRiabchinsky@users.noreply.github.com>
+Date:   Wed Oct 26 20:45:16 2022 +0300
+
+    Merge branch 'main' of https://github.com/AlexanderRiabchinsky/VSCode-experiments
+
+[33mcommit a52b3bf7452a267e57daedafcb9a25edc8274f2f[m
+Author: AlexanderRiabchinsky <96685130+AlexanderRiabchinsky@users.noreply.github.com>
+Date:   Wed Oct 26 20:40:21 2022 +0300
+
+    Update experiments.html
+
+[33mcommit 303b7460e7ee2b4a785fe03e3dc8ee72dd9eafb4[m
+Author: AlexanderRiabchinsky <96685130+AlexanderRiabchinsky@users.noreply.github.com>
+Date:   Wed Oct 26 20:38:40 2022 +0300
+
+    add tel
+
+[33mcommit 52790b3fd2c24713ca4ddfb31a7e3d744a6b03dd[m
+Merge: 389a191 6193354
+Author: AlexanderRiabchinsky <96685130+AlexanderRiabchinsky@users.noreply.github.com>
+Date:   Wed Oct 26 20:34:04 2022 +0300
+
+    Merge branch 'main' of https://github.com/AlexanderRiabchinsky/VSCode-experiments
+
+[33mcommit 61933549ac5456975d3682622c914461e34a9e0a[m
+Author: AlexanderRiabchinsky <96685130+AlexanderRiabchinsky@users.noreply.github.com>
+Date:   Wed Oct 26 20:31:03 2022 +0300
+
+    Create test.html
+
+[33mcommit 389a191e5f806816e2780fb087a6deea03cf3261[m
+Author: AlexanderRiabchinsky <96685130+AlexanderRiabchinsky@users.noreply.github.com>
+Date:   Wed Oct 26 20:29:10 2022 +0300
+
+    26 oct 2022
+
+[33mcommit aca775ea7ffe0fb0dc1d3e9200803bd968735962[m
+Author: AlexanderRiabchinsky <96685130+AlexanderRiabchinsky@users.noreply.github.com>
+Date:   Wed Oct 26 20:21:32 2022 +0300
+
+    Create README.md
+
+[33mcommit bb752adac2d1d0f8a2841fd2d93f54015b0ca756[m
+Author: AlexanderRiabchinsky <96685130+AlexanderRiabchinsky@users.noreply.github.com>
+Date:   Wed Oct 26 20:17:00 2022 +0300
+
+    some words added
+
+[33mcommit 6e6d84721d441718f42d438b6540cf436746eb2d[m
+Author: AlexanderRiabchinsky <96685130+AlexanderRiabchinsky@users.noreply.github.com>
+Date:   Wed Oct 26 20:08:52 2022 +0300
+
+    added e-mail
+
+[33mcommit 4b0ea5740333a637874f327b369462cb59be5ac8[m[33m ([m[1;31mVSCode-experiments/main[m[33m)[m
+Author: AlexanderRiabchinsky <96685130+AlexanderRiabchinsky@users.noreply.github.com>
+Date:   Wed Oct 26 19:32:40 2022 +0300
+
+    html created
+
+[33mcommit b4571f144ebf2abdaa5310f1accaf3cba450dec3[m
+Author: AlexanderRiabchinsky <96685130+AlexanderRiabchinsky@users.noreply.github.com>
+Date:   Wed Oct 19 20:15:37 2022 +0300
+
+    Initial commit
